@@ -2,7 +2,7 @@ import React from "react";
 
 const MyCard = () => {
 	return (
-		<div className="row">
+		<div className="row justify-content-around container m-0">
             <div className="card" style={{width: "18rem"}}>
 			    <img className="card-img-top" src="https://picsum.photos/id/75/500/325" alt="Card image cap" />
 			    <div className="card-body">
