@@ -4,7 +4,11 @@ import React from "react";
 // Create the footer
 const Footer = () => {
 	return (
-		<h1>Hello i am Footer</h1>
+		<div class="container-fluid bg-dark">
+  <footer class="py-3 my-4">
+    <p class="text-center text-muted active">© 2024 Dana , Taylor And Leo.</p>
+  </footer>
+</div>
 	);
 };
 
